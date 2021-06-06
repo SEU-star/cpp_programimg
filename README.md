@@ -1,2 +1,1 @@
-# cpp_programimg
-## 简单实用小程序
+# C++ 程序
